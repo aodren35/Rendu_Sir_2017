@@ -11,8 +11,8 @@ Pour pouvoir lancer le projet, il faut build les deux "end".
     -> maven install puis maven build (argument : tomcat7:run) pour le backend
     -> npm install puis npm start dans la racine du projet Angular2       
                   (Rendu_Sir_2017\Opower\src\main\webapp\OPower)
-Puis lancer le script "run-hsqldb-server.bat" qui s'occupera de lancer le serveur local.
+Puis lancer le script "run-hsqldb-server" qui s'occupera de lancer le serveur local.
 
 <h1>Fonctions</h1>
-Le projet Opower est une ébauche de réseau social permettant de comparrer entre amis la consomation éléctrique de ses maisons.
+Le projet Opower est une ébauche de réseau social permettant de comparer entre amis la consomation éléctrique de ses maisons.
   -> il est possible de créer des utilisateurs, de leur ajouter des maisons et des appareils consommateur d'éléctricité)
