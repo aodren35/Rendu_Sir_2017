@@ -5,7 +5,6 @@ Ce tp est le résultat final de l'ensemble des tp 2 - 4 - 7 de la matière SIR.
 
 Il comprend le back end java avec les fonctionnalitées JPA REST SERVLET qui tourneront sur le serveur.
 Il comprend aussi le front end en Angular2 qui tournera sur le browser.
-(Une autre ébauche en Angular 1 est disponible : [à ce lien](https://github.com/djowalker/SIR-tp7) )
 
 <h1>Comment lancer</h1>
 Pour pouvoir lancer le projet, il faut build les deux "end".
